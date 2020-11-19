@@ -2,6 +2,7 @@ arr = [1,0,2,3,0,4,5,0]
 y = [1,2,3]
 
 arr2 = [i for i in arr]
+print(arr2)
 i = 0
 j = 0
 
